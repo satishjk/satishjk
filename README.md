@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satishjk
 - 👀 I’m interested in all things software development
 - 🌱 I’m currently learning Microservices and Kubernetes
-- 💞️ I’m looking to collaborate on no code, low code, and pro code topics 
+- 💞️ I’m looking to collaborate on no code, low code, and pro-dev topics 
 - 📫 How to reach me email, linkedin
 
 <!---
